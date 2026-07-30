@@ -12,19 +12,9 @@
 
 </p>
 
-A modern **Employee Management System (EMS)** built with **React**, **Tailwind CSS**, and **Context API**. WorkTrack EMS provides role-based dashboards for administrators and employees, allowing task assignment, task tracking, and status management through a clean, responsive interface.
+A modern **Employee Management System (EMS)** built with **React**, **Tailwind CSS** and **Context API**. WorkTrack EMS provides role-based dashboards for administrators and employees, allowing task assignment, task tracking and status management through a clean, responsive interface.
 
-> Designed as a frontend-focused project demonstrating modern React development, responsive UI design, state management, and role-based authentication.
-
----
-
-## 📸 Preview
-
-> Add your preview image here after deployment.
-
-```md
-![WorkTrack EMS Preview](./preview.png)
-```
+> Designed as a frontend-focused project demonstrating modern React development, responsive UI design, state management and role-based authentication.
 
 ---
 
@@ -119,7 +109,7 @@ src
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/worktrack-ems.git
+git clone https://github.com/parthtripathi21/worktrack-ems.git
 ```
 
 Navigate into the project:
