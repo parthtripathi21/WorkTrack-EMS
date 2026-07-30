@@ -1,5 +1,7 @@
 # 🚀 WorkTrack EMS
 
+## [Live Link](https://worktrack-ems-eight.vercel.app)
+
 <p align="center">
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
@@ -171,17 +173,10 @@ npm run dev
 > ![Employee Dashboard](./screenshots/wTrack4.PNG)
 > ![Employee Dashboard](./screenshots/wTrack5.PNG)
 
----
-
-## 🌐 [Live Demo]
-
----
-
 ## 👨‍💻 Author
 
 **Parth Tripathi**
 
-* [Live Link](https://worktrack-ems-eight.vercel.app)
 * [GitHub](https://github.com/parthtripathi21)
 * [LinkedIn](https://linkedin.com/in/parthtripathi21)
 * [Portfolio](https://portfolio-swart-two-95.vercel.app)
