@@ -161,17 +161,17 @@ npm run dev
 
 ### Login
 
-![WorkTrack EMS Preview](./screenshots/wTrack1.png)
+![WorkTrack EMS Preview](./screenshots/wTrack1.PNG)
 
 ### Admin Dashboard
 
-> ![Admin Dashboard](./screenshots/wTrack2.png)
+> ![Admin Dashboard](./screenshots/wTrack2.PNG)
 
 ### Employee Dashboard
 
-> ![Employee Dashboard](./screenshots/wTrack3.png)
-> ![Employee Dashboard](./screenshots/wTrack4.png)
-> ![Employee Dashboard](./screenshots/wTrack5.png)
+> ![Employee Dashboard](./screenshots/wTrack3.PNG)
+> ![Employee Dashboard](./screenshots/wTrack4.PNG)
+> ![Employee Dashboard](./screenshots/wTrack5.PNG)
 
 ---
 
