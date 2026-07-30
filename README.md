@@ -86,8 +86,6 @@ src
 
 ---
 
-## 🔐 Demo Credentials
-
 ### 👑 Admin
 
 | Email                                 | Password |
@@ -183,9 +181,27 @@ npm run dev
 
 **Parth Tripathi**
 
-* [GitHub](https://github.com/parthtripathi21)
-* [LinkedIn](https://linkedin.com/in/parthtripathi21)
-* [Portfolio](https://portfolio-swart-two-95.vercel.app)
+```html
+<p align="center">
+
+<a href="https://worktrack-ems-eight.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=for-the-badge" alt="Live Demo">
+</a>
+
+<a href="https://portfolio-swart-two-95.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/parthtripathi21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/parthtripathi21" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</p>
+```
 
 ---
 
