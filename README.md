@@ -161,7 +161,7 @@ npm run dev
 
 ### Login
 
-> ![WorkTrack EMS Preview](./screenshots/wTrack1.png)
+![WorkTrack EMS Preview](./screenshots/wTrack1.png)
 
 ### Admin Dashboard
 
